@@ -9,5 +9,7 @@ En ese curso se ve de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos lokillos
 * El trastorno de identidad disociativo del profesor. 
+* Creado por el team de platzi
+
 
 Reminder: **Este Readme.md es bait, asi como tu ex diciéndote te amo**. Pa ponernos serios [vaya a tomar el curso](http://https://platzi.com/cursos/git-github/ "ir a tomar el curso"). Si no tiene cuenta contacteme y le presto la mia :-). 
