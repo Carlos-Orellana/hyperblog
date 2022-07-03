@@ -10,6 +10,8 @@ En ese curso se ve de todo:
 * Trucos lokillos
 * El trastorno de identidad disociativo del profesor. 
 * Creado por el team de platzi
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 
 Reminder: **Este Readme.md es bait, asi como tu ex diciéndote te amo**. Pa ponernos serios [vaya a tomar el curso](http://https://platzi.com/cursos/git-github/ "ir a tomar el curso"). Si no tiene cuenta contacteme y le presto la mia :-). 
